@@ -9,11 +9,5 @@ http://www.liaad.up.pt/~ltorgo/Regression/DataSets.html
 
 The Features are:
 
-housingMedianAge: continuous. 
-totalRooms: continuous. 
-totalBedrooms: continuous. 
-population: continuous. 
-households: continuous. 
-medianIncome: continuous. 
-medianHouseValue: continuous.
+housingMedianAge: continuous, totalRooms: continuous, totalBedrooms: continuous, population: continuous, households: continuous, medianIncome: continuous, medianHouseValue: continuous.
 
